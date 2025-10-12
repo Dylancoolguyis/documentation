@@ -1,22 +1,22 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "willow",
-  "name": "Mint Starter Kit",
+  "name": "New York RP",
   "colors": {
-    "primary": "#fcba03",
-    "light": "#fcba03",
-    "dark": "#fcba03"
+    "primary": "#163ca3",
+    "light": "#0a68c7",
+    "dark": "#153380"
   },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Community Dashboard",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Overview",
             "pages": [
-              "index",
+              "Introduction",
               "quickstart",
               "development"
             ]
