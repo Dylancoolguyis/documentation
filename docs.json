@@ -9,6 +9,13 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "anchors": [
+      {
+        "name": "Discord",
+        "icon": "discord",
+        "url": "https://discord.gg/MqjsB2M2Rx"
+      }
+    ],
     "groups": [
       {
         "group": "Overview",
