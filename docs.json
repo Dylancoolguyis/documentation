@@ -16,6 +16,15 @@
     }
   ],
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Discord",
+          "href": "https://discord.gg/MqjsB2M2Rx",
+          "icon": "discord"
+        }
+      ]
+    },
     "groups": [
       {
         "group": "Overview",
