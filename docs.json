@@ -20,9 +20,9 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Information",
             "pages": [
-              "essentials/settings",
+              "essentials/serverrules",
               "essentials/navigation"
             ]
           },
