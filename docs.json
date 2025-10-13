@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "customCSS": ["/styles.css"],
+  "customCSS": ["/styles.css", "/custom-table.css"],
   "theme": "maple",
   "name": "New York RP",
   "colors": {

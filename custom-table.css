@@ -1,0 +1,13 @@
+/* Make tables full width like notes */
+.content-container table,
+article table,
+main table {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Ensure table takes full width of parent */
+table.border-collapse {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
