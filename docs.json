@@ -54,6 +54,13 @@
     "light": "/logo/newyorkseal.png",
     "dark": "/logo/newyorkseal.png"
   },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Developed by Dylan",
+      "href": "https://discord.com/users/435956457826025475"
+    }
+  },
   "footer": {
     "socials": {
       "discord": "https://discord.gg/MqjsB2M2Rx"
