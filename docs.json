@@ -54,19 +54,6 @@
     "light": "/logo/newyorkseal.png",
     "dark": "/logo/newyorkseal.png"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
   "footer": {
     "socials": {
       "discord": "https://discord.gg/MqjsB2M2Rx"
