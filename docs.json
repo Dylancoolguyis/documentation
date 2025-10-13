@@ -38,7 +38,9 @@
         "pages": [
           "essentials/serverrules",
           "essentials/roleplayrules", 
-          "essentials/bannedweapons"
+          "essentials/bannedweapons",
+          "essentials/bannedvehicles"
+
 
         ]
       },
