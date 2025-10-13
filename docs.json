@@ -37,7 +37,9 @@
         "group": "Information",
         "pages": [
           "essentials/serverrules",
-          "essentials/roleplayrules"
+          "essentials/roleplayrules", 
+          "essentials/bannedweapons"
+
         ]
       },
       {
