@@ -34,7 +34,7 @@
         ]
       },
       {
-        "group": "Information",
+        "group": "Regulations",
         "pages": [
           "essentials/serverrules",
           "essentials/roleplayrules", 
@@ -44,7 +44,7 @@
         ]
       },
       {
-        "group": "Writing content",
+        "group": "Resources",
         "pages": [
           "essentials/markdown",
           "essentials/code",
