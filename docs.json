@@ -1,5 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
+  "customCSS": ["/styles.css"],
   "theme": "maple",
   "name": "New York RP",
   "colors": {
@@ -50,6 +51,7 @@
       }
     ]
   },
+  
   "logo": {
     "light": "/logo/newyorkseal.png",
     "dark": "/logo/newyorkseal.png"

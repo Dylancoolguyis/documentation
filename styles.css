@@ -1,0 +1,8 @@
+.glow-text {
+  color: #3b82f6;
+  text-shadow: 0 0 10px #3b82f6, 0 0 20px #3b82f6;
+}
+
+h2 .glow-text {
+  display: inline;
+}
