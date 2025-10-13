@@ -4,9 +4,9 @@
   "theme": "maple",
   "name": "New York RP",
   "colors": {
-    "primary": "#3b9cf5",
+    "primary": "#155996",
     "light": "#3b9cf5",
-    "dark": "#3b9cf5"
+    "dark": "#155996"
   },
   "favicon": "/favicon.png",
   "anchors": [
