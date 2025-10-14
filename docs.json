@@ -51,9 +51,9 @@
       },
       {
         "group": "Miscellaneous",
-        "tag": "V1.1.0",
+        "tag": "V1.0",
         "pages": [
-          "miscellaneous/updates"
+          "essentials/updates"
         ]
       }
     ]
