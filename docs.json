@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "customCSS": ["/styles.css", "/custom-table.css"],
   "theme": "maple",
-  "name": "New York RP",
+  "name": "New York Roleplay",
   "colors": {
     "primary": "#10528f",
     "light": "#3b9cf5",
