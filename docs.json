@@ -13,7 +13,7 @@
     {
       "name": "Discord",
       "icon": "discord",
-      "url": "https://discord.gg/MqjsB2M2Rx"
+      "url": "https://discord.gg/nysim"
     }
   ],
   "navigation": {
@@ -21,7 +21,7 @@
       "anchors": [
         {
           "anchor": "Discord",
-          "href": "https://discord.gg/MqjsB2M2Rx",
+          "href": "https://discord.gg/nysim",
           "icon": "discord"
         }
       ]
@@ -71,7 +71,7 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.gg/MqjsB2M2Rx"
+      "discord": "https://discord.gg/nysim"
     }
   }
 }
